@@ -876,6 +876,11 @@ p {
     grid-row: span 2;
 }
 
+.gallery-historical-2x2 {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+}
+
 .gallery-current-2col {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
@@ -1158,6 +1163,7 @@ p {
     }
 
     .gallery-historical,
+    .gallery-historical-2x2,
     .gallery-current-2col,
     .gallery-vision {
         grid-template-columns: 1fr;

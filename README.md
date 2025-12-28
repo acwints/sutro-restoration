@@ -4,7 +4,7 @@ A website for the Sutro Baths Restoration Initiative — a public-private partne
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/acwints/sutro-restoration)
 
-**Live Site**: [sutra.vercel.app](https://sutra.vercel.app)
+**Live Site**: [sutro.vercel.app](https://sutro.vercel.app)
 
 ## About the Project
 
@@ -121,7 +121,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Contact
 
-- **Project Website**: [sutra.vercel.app](https://sutra.vercel.app)
+- **Project Website**: [sutro.vercel.app](https://sutro.vercel.app)
 - **GitHub Issues**: [Report a bug or request a feature](https://github.com/acwints/sutro-restoration/issues)
 
 ---

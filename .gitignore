@@ -98,3 +98,4 @@ coverage/
 *.zip
 *.tar.gz
 *.rar
+.env*.local
