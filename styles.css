@@ -149,7 +149,7 @@ img {
 }
 
 .story-dark .story-date {
-    color: var(--color-accent);
+    color: #999;
 }
 
 .story-dark .story-block h2 {
@@ -170,12 +170,11 @@ img {
 
 .story-date {
     font-family: var(--font-mono);
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 400;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--color-accent);
-    margin-bottom: 20px;
+    letter-spacing: 0.1em;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
 }
 
 .story-block h2 {
