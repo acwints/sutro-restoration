@@ -2,7 +2,7 @@
 
 A website for the Sutro Baths Restoration Initiative — a public-private partnership proposal to restore San Francisco's historic Sutro Baths through private capital investment.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/acwints/sutro-restoration)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/acwints/sutro)
 
 **Live Site**: [sutro.vercel.app](https://sutro.vercel.app)
 
@@ -38,8 +38,8 @@ No build process required — just open `index.html` in a browser.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/acwints/sutro-restoration.git
-   cd sutro-restoration
+   git clone https://github.com/acwints/sutro.git
+   cd sutro
    ```
 
 2. **Open locally**
@@ -58,7 +58,7 @@ No build process required — just open `index.html` in a browser.
 ### Project Structure
 
 ```
-sutro-restoration/
+sutro/
 ├── index.html              # Main HTML file
 ├── styles.css              # All styles
 ├── images/
@@ -122,7 +122,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## Contact
 
 - **Project Website**: [sutro.vercel.app](https://sutro.vercel.app)
-- **GitHub Issues**: [Report a bug or request a feature](https://github.com/acwints/sutro-restoration/issues)
+- **GitHub Issues**: [Report a bug or request a feature](https://github.com/acwints/sutro/issues)
 
 ---
 
